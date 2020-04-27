@@ -57,6 +57,8 @@
 
 <h2>Chose Kovan network and login to your wallet</h2>
 <p> Make sure that Kovan st network is chosen and then login with Mnemonic phrase</p>
+
+
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/9_mycrypto.png)
 
 <h2>Chose wallet to pre-fund</h2>
@@ -76,14 +78,20 @@
 <p>Click "Add Custom Node", then add the custom network information that you set in the genesis.</p>
 
 <p>Make sure that you scroll down to choose Custom in the "Network" column to reveal more options like Chain ID:</p>
+
+
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/12_add_custom_node.png)
 
 <h2>RocketChain Network </h2>
 <p> Chose rocketchain network and login with private key which you have previously stored in a safe file.  </p>
+
+
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/13_access_rocch.png)
 
 
 <h2>Transaction Initiation</h2>
+
+
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/14_transaction_initiation.PNG)
 
 <h2>Confirm if everyting is valid before executing transaction</h2>

@@ -94,7 +94,7 @@
 
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/14_transaction_initiation.PNG)
 
-<h2>Confirm if everyting is valid before executing transaction</h2>
+<h2>Confirm if everyting is valid before executing transaction and click on the button. </h2>
 
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/15_confirm_transaction.PNG)
 
@@ -102,6 +102,8 @@
 <h2>Confirmation of Executed Transaction/h2>
 
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/16_transaction_confirmation.PNG)
+
+
 
 <h2>GREAT: Succesfully Executed Transaction</h2>
 

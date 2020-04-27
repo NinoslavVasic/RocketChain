@@ -99,7 +99,7 @@
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/15_confirm_transaction.PNG)
 
 
-<h2>Confirmation of Executed Transaction/h2>
+<h2>Confirmation of Executed Transaction </h2>
 
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/16_transaction_confirmation.PNG)
 

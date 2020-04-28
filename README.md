@@ -2,12 +2,12 @@
 
 <h1> <strong>RocketChain</strong> <h1>
 
-<p>_________________________________________________________________________</p>
+<p>__________________________________________________________</p>
 
 <h2>Local blockchain: step by step</h2>
 
 <ol>
-<li><h3>Create local network and Genesis Block using <code>puppeth</code></h3></li>
+<h3>Create local network and Genesis Block using <code>puppeth</code></h3>
 </ol>
 
 <p><img src="https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/1_add_rocketchain_puppeth.png" alt="" title="" /></p>

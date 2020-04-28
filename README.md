@@ -122,7 +122,7 @@
 
 <footer>
     
-Copyright 2020 Columbia FinTech Bootcamp NVasic
+Copyright 2020 Columbia Engineering - FinTech Bootcamp NVasic
     
     
 </footer>

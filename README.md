@@ -1,6 +1,6 @@
 <h1>Proof of Auth and Proof of Work in local blockchain</h1>
 
-<h1> RocketChain_<h1>
+<h1> RocketChain<h1>
 
 
 

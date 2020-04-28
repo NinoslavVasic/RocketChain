@@ -1,8 +1,8 @@
 <h1>Proof of Auth and Proof of Work in local blockchain</h1>
 
-<p><h1> <strong>RocketChain</strong> <h1></p>
+<h1> <strong>RocketChain</strong> <h1>
 
-<p>================================================================</p>
+<p>_________________________________________________________________________</p>
 
 <h2>Local blockchain: step by step</h2>
 
@@ -21,14 +21,14 @@
 <p><ol>
 <li><h3>Generate and export json files into specific folder. <h3></li>
 </ol>
-5c6ae8570f417b2aea12d1c722572753</p>
+
 
 <p><img src="https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/3_gen_exp_json.png" alt="" title="" /></p>
 
 <p><ol>
 <li><h3> Using <code>geth</code> create 2 virtual nodes on rocketchain network <h3></li>
 </ol>
-a1c48f238be3fbea6b82788ba82cf8f2</p>
+
 
 <p><img src="https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/4_cre_node1.png" alt="" title="" /></p>
 
@@ -39,14 +39,14 @@ a1c48f238be3fbea6b82788ba82cf8f2</p>
 <p><ol>
 <li><h3> Initialize and tell the nodes to use <code>rocketchain</code> genesis block! <h3></li>
 </ol>
-468310663bd504d33cea4addcdf6f504</p>
+
 
 <p><img src="https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/6_init_node1.png" alt="" title="" /></p>
 
 <p><ol>
 <li><h3> Open separate GitBash to start 'rocketchain' mining node1 <h3></li>
 </ol>
-acf16bfe4d2d8735e073b99acf690021</p>
+>
 
 <p><img src="https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/7_minthread_node1.png" alt="" title="" /></p>
 
@@ -63,14 +63,14 @@ acf16bfe4d2d8735e073b99acf690021</p>
 <p><ol>
 <li><h3>  Chose Kovan network and login to your wallet <h3></li>
 </ol>
-50fcbf36c3d186badabf900918ddccdc</p>
+
 
 <p><img src="https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/9_mycrypto.png" alt="" title="" /></p>
 
 <p><ol>
 <li><h3> Chose wallet to pre-fund <h3></li>
 </ol>
-c8b1cd6191400eb80f9df037911219c6</p>
+
 
 <p><img src="https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/10_mn_login.png" alt="" title="" /></p>
 

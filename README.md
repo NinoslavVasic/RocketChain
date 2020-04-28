@@ -120,14 +120,12 @@
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/17_succesfull_transaction.PNG)
 
 
+<footer>
+    
+Copyright 2020 Columbia FinTech Bootcamp NVasic
+    
+    
 </footer>
-    
-        
-        Copyright 2020 Columbia FinTech Bootcamp NVasic
-    
-    
-    </div>
-</body>
 
 
 

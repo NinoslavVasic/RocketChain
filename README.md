@@ -92,7 +92,8 @@
 
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/13_access_rocch.png)
 
-    <p> Chose rocketchain network and login with private key which you have previously stored in a safe file.  </p>
+   
+   <p> Chose rocketchain network and login with private key which you have previously stored in a safe file.  </p>
 
 ![](https://github.com/NinoslavVasic/RocketChain/blob/master/Screenshots1/13.1_my_crypto_login_pk.PNG)
 
@@ -121,16 +122,13 @@
 
 </footer>
     
-    <br>
-    
-    <div id="footer">
-      
+        
         Copyright 2020 Columbia FinTech Bootcamp NVasic
     
     
     </div>
 </body>
-</html>
+
 
 
 
